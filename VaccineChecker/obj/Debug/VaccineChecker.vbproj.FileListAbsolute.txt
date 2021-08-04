@@ -1,0 +1,13 @@
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\bin\Debug\dbvaccine.accdb
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\bin\Debug\VaccineChecker.exe.config
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\bin\Debug\VaccineChecker.exe
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\bin\Debug\VaccineChecker.pdb
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\bin\Debug\VaccineChecker.xml
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.vbproj.AssemblyReference.cache
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.Form1.resources
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.Resources.resources
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.vbproj.GenerateResource.cache
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.vbproj.CoreCompileInputs.cache
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.exe
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.xml
+C:\Users\Duavs\source\repos\VaccineChecker\VaccineChecker\obj\Debug\VaccineChecker.pdb
